@@ -18,5 +18,13 @@
     <img style="margin-left: 4px" src="/Stack icons/react.png"> <b>React</b>
     <img style="margin-left: 4px" src="/Stack icons/nodejs.png"> <b>Node.js</b>
 </div>
+
+<h3>
+
+Disponível para oportunidades de Desenvolvedor Front End jr em empresas que têm produtos focados em impactar positivamente a vida das pessoas 😀
+</h3>
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusfr8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfr8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
       
 
