@@ -11,11 +11,11 @@
   <img style="margin-left: 4px" src="/Stack icons/sass.png"> <b>Sass</b>
   <img style="margin-left: 4px" src="/Stack icons/git.png"> <b>Git</b>,
   <img style="margin-left: 4px" src="/Stack icons/javascript.png"> <b>Javascript</b>
+  <img style="margin-left: 4px" src="/Stack icons/typescript.png"> <b>Typescript</b>
   </div>
 <h2>📝 Estudarei em breve </h2>
 <div>
-    <img style="margin-left: 4px" src="/Stack icons/typescript.png"> <b>Typescript</b>,
-    <img style="margin-left: 4px" src="/Stack icons/react.png"> <b>React</b>
+     <img style="margin-left: 4px" src="/Stack icons/react.png"> <b>React</b>
     <img style="margin-left: 4px" src="/Stack icons/nodejs.png"> <b>Node.js</b>
 </div>
 
@@ -27,6 +27,6 @@ Disponível para oportunidades de Desenvolvedor Front End jr em empresas que tê
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=matheusfr8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfr8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusfr8&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
       
 
